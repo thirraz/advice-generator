@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 -    Solution URL: [GitHub](https://github.com/thirraz/advice-generator-app)
--    Live Site URL: [Netlify](https://gorgeous-entremet-afdd4e.netlify.app/)
+-    Live Site URL: [Netlify](https://stellar-fairy-9d5b23.netlify.app/)
 
 ## My process
 
